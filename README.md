@@ -77,6 +77,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | Reading                                                                   | Status | Evidence |
 | :------------------------------------------------------------------------ | :----: | :------: |
 | [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)             |        |          |
+| [Javascript Info](https://javascript.info)           |        |          |
 | [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)               |        |          |
 | [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |        |          |
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                    |        |          |
@@ -98,6 +99,8 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 - Always be practicing. Ideas for practice:
   - Projects on [Frontend Mentor](https://www.frontendmentor.io/challenges?sort=difficulty%7Casc&type=free)
   - Challenges on [CodinGame](https://www.codingame.com/training) in JavaScript
+  - Challenges on [Exercism](https://exercism.org/) in JavaScript
+  -  Challenges on [Hackerrank](https://www.hackerrank.com/) in JavaScript
   - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
 - Include mathematics in your studies if possible. There is a General Mathematics Progression at the bottom of the [Notes](#notes) below to guide you to whatever course in the sequence is appropriate for your level.
 - Take time to read from the reading list
@@ -105,7 +108,8 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
   
 | Courses                                                                                                                                                                                                          | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Full Stack Open](https://fullstackopen.com/en/)                                                                                                                                                                 |        |          |
+| [Full Stack Open](https://fullstackopen.com/en/) |       |         |
+| [App Academy Open](https://free.appacademy.io/)  |        |          |
 | [MongoDB Node.js Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
 
 | Reading                           | Status | Evidence |
