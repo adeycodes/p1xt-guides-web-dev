@@ -53,14 +53,14 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)                                                                         |  [x]   | Done      |
 | [The Odin Project Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)                                                                         |        |          |
-| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
-| [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |        |          |
+| [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |    [x]   | Done  |
+| [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |     [x]   | Done  |
 | [Project: NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                                         |        |          |
 | [Project: Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)                                                               |        |          |
-| [Project: Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                                |        |          |
+| [Project: Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)                                                |     [x]   | Done 
 | [Project: Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)                                                     |        |          |
-| [Project: Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)                                                          |        |          |
-| [Project: Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)                                                                                      |        |          |
+| [Project: Results summary component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)                                                          |      [x]   | Done  |
+| [Project: Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)                                                                                      |    [x]   | Done |
 | [Project: 3-column preview card component](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)                                                |        |          |
 | [Project: Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)                                        |        |          |
 | [Project: Huddle landing page with a single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) |        |          |
